@@ -14,5 +14,17 @@ export const projects = [
     liveSite: "https://rositadrd.github.io/Ciencias-Agr-colas/",
     githubRepo: "https://github.com/Rositadrd/Ciencias-Agr-colas",
   },
-  // Add more projects here...
+  { id: 2,
+    title: {
+      en: "About Me",
+      es: "Sobre Mí",
+    },
+    description: {
+      en: "On this page, you'll get to know me a little better. You'll be able to see what my hobbies are, who I am, what I like, and much more.",
+      es: "En esta página me conocerás un poco más, podrás ver cuales son mis pasatiempos, quien soy, que cosas me gustan, entre muchas cosas más.",
+    },
+    image: "",
+    liveSite: "https://rositadrd.github.io/Sobre-Mi/",
+    githubRepo: "https://github.com/Rositadrd/Sobre-Mi",
+  },
 ];
